@@ -31,3 +31,19 @@ Hannah Hospital - Confidence with public speaking in front of large groups, inte
 Andrew Snyder - Improve technical skills.
 
 Josh Evans - Interviewing.
+
+# Standup Notes 01 28 22
+
+## What project are you doing for P0?
+
+Philip Wentworth - Character generation
+
+Hannah Hospital - Course Registration
+
+Austin Ristau - Banking Application
+
+Michael Bronzo - Banking Application
+
+Josh Evans - Banking Application
+
+Austin Ristau - Healthcare Scheduling Application
