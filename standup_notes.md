@@ -40,10 +40,25 @@ Philip Wentworth - Character generation
 
 Hannah Hospital - Course Registration
 
-Austin Ristau - Banking Application
+Darrell Hamilton - Banking Application
 
 Michael Bronzo - Banking Application
 
 Josh Evans - Banking Application
 
 Austin Ristau - Healthcare Scheduling Application
+
+ # Standup Notes 01 31 22
+## Progress thus far
+
+Philip Wentworth - finished utility package and models, currently working on services
+
+Hannah Hospital - began brainstorming
+
+Austin Ristau - began brainstorming
+
+Michael Bronzo - began brainstorming
+
+Josh Evans - prepared Menu classes for application
+
+Darrell Hamilton - begain brainstorming
