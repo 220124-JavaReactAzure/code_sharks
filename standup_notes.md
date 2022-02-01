@@ -66,9 +66,9 @@ Darrell Hamilton - begain brainstorming
 # Standup Notes 2/1/22
 ## Progress update 
 
-Phillip Wentworth - finished Exceptions and MyCharacterService, working on UserService and Menus.
+Phillip Wentworth - Finished Exceptions and MyCharacterService, working on UserService and Menus.
 
-Hannah Hospital - brainstorming
+Hannah Hospital - Brainstorming
 
 Austin Ristau - Outlining and adding to-dos
 
