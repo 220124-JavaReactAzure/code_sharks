@@ -62,3 +62,18 @@ Michael Bronzo - began brainstorming
 Josh Evans - prepared Menu classes for application
 
 Darrell Hamilton - begain brainstorming
+
+# Standup Notes 2/1/22
+## Progress update 
+
+Phillip Wentworth - finished Exceptions and MyCharacterService, working on UserService and Menus.
+
+Hannah Hospital - brainstorming
+
+Austin Ristau - Outlining and adding to-dos
+
+Michael Bronzo - Set up and planning outline
+
+Josh Evans - Working on menus/router
+
+Darrell Hamilton - Brainstorming
