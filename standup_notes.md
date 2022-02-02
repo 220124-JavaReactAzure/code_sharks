@@ -77,3 +77,18 @@ Michael Bronzo - Set up and planning outline
 Josh Evans - Working on menus/router
 
 Darrell Hamilton - Brainstorming
+
+# Standup Notes 2/2/22
+## Progress update
+
+Phillip Wentworth - working on UserService, Menus, and DAOs
+
+Hannah Hospital - Creating outline for databases, classes, UI
+
+Austin Ristau - Setup classes and databases
+
+Michael Bronzo - Outlining classes and databases
+
+Josh Evans - working on Menus, and migrating to Maven
+
+Darrell Hamilton - Working on hashmap and implementing setting  up the bank assignment
