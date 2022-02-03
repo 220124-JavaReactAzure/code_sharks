@@ -92,3 +92,18 @@ Michael Bronzo - Outlining classes and databases
 Josh Evans - working on Menus, and migrating to Maven
 
 Darrell Hamilton - Working on hashmap and implementing setting  up the bank assignment
+
+# Standup Notes 2/3/22
+## Progress update
+
+Phillip Wentworth - finishing DAOs today. Next step is Menus, then Testing, then done!
+
+Hannah Hospital - brainstorming DAO interface, UI, getting comfortable with SQL, and refining details to fit for user storie
+
+Austin Ristau - Worked on reading and writing to the database
+
+Michael Bronzo - Focusing on SQL and setting up DAOs
+
+Josh Evans - Starting DAO, creating User model
+
+lslDarrell Hamilton - Implementing setting  up the bank assignment
