@@ -106,4 +106,19 @@ Michael Bronzo - Focusing on SQL and setting up DAOs
 
 Josh Evans - Starting DAO, creating User model
 
-lslDarrell Hamilton - Implementing setting  up the bank assignment
+Darrell Hamilton - Implementing setting  up the bank assignment
+
+# Standup Notes 2/4/22
+## Progress update
+
+Philip Wentworth - features complete. Next steps are Testing with JUnit and Mokito, final step documentation.
+
+Hannah Hospital - created structure for packages, created models, updated DAO, and cusoms collections
+
+Austin Ristau - Should be finished with menus and working on services next
+
+Michael Bronzo - working on connectiong to postgress sql servers
+
+Josh Evans - Working on Services and DAO
+
+Darrell Hamilton - Working on the on the service DAO
