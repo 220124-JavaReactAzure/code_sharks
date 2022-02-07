@@ -122,3 +122,18 @@ Michael Bronzo - working on connectiong to postgress sql servers
 Josh Evans - Working on Services and DAO
 
 Darrell Hamilton - Working on the on the service DAO
+
+# Standup Notes 2/7/22
+## Progress update
+
+Philip Wentworth - P0 everything complete except unit testing. Test Suite objects built but need to write tests.
+
+Hannah Hospital - Finished DAOS, refining all services, starting on Menus
+
+Austin Ristau - Data persisting done just need to be able to update and then unit tests.
+
+Michael Bronzo - Writing to database and outlining testing
+
+Josh Evans - Working on DAO and Services, specifically writing to the database
+
+Darrell Hamilton - Working on project testcase
