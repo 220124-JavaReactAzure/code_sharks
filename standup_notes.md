@@ -137,3 +137,18 @@ Michael Bronzo - Writing to database and outlining testing
 Josh Evans - Working on DAO and Services, specifically writing to the database
 
 Darrell Hamilton - Working on project testcase
+
+# Standup Notes 2/8/22
+## Progress update
+
+Philip Wentworth - Finish test cases
+
+Hannah Hospital - Updated all services, refining menus
+
+Austin Ristau -  Double checking all functionality then working on tests
+
+Michael Bronzo - finish functionality and testing
+
+Josh Evans - DAO and Services for user bank account, unit testing on service layer
+
+Darrell Hamilton - working on testing
