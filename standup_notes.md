@@ -152,3 +152,43 @@ Michael Bronzo - finish functionality and testing
 Josh Evans - DAO and Services for user bank account, unit testing on service layer
 
 Darrell Hamilton - working on testing
+
+# Standup Notes 2/9/22
+## Project0 Reflection
+
+Philip Wentworth - 
+1. Everything went fairly well 
+2. I could've asked for help to get JUnit working earlier, I spent more time than necessary troubleshooting it
+3. If I'm stuck on something for longer than an hour I'll ask if anyone else has encountered and already solved the problem I'm dealing with
+
+Hannah Hospital - 
+1. What went right? 
+I was able to (mostly)successfully create all of my menus and I had most of the required functionality for students and faculty. I was also able to successfully persist the data into tables of my database.
+
+2.What could I improve upon?
+I could have implemented tests for both FacultyService and StudentService. I had difficulty successfully writing test methods. I could also have better planned my blueprint for starting p0. I didn’t spend enough time truly planning out the flow of the application, and it was reflected in my implementation.
+
+3.Going forward what steps are you going to take?
+I would put more emphasis on the planning phase of SDLC. I think I might utilize Kansan boards next time. 
+I also spend far too much time creating useless functionality in my services and DAOS. To improve the quality of this project, I will be getting rid of the unused functions in my DAOS and services, and I will also implement a method in the FacultyService, such that faculty members can directly view the available courses in the Registration Catalog. I would want my application to be more user friendly.
+
+
+Austin Ristau -  
+1 Everything that I put in functioned.
+2 Work on more sound logic testing and flushing the project out
+3 Create a sound plan, make a list and chip away at it.
+
+
+Michael Bronzo - 
+1) Got most of the functionality I needed
+2) Leave myself more time so I could have had more time to finishing testing and add in other features
+3) Start earlier and ask questions earlier
+
+
+Josh Evans - 
+1. All of the pieces came together really easily. I'm a little shocked I didn't have more trouble conecting my app to the sql database.
+2. I think I would have ended up with a better functioning project if I had planned things better from the beginning.
+3. Start planning early in the code wirting process.
+
+
+Darrell Hamilton - Not Present
