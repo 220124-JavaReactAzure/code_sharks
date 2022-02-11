@@ -192,3 +192,20 @@ Josh Evans -
 
 
 Darrell Hamilton - Not Present
+
+# Standup notes 2/11/2022
+## p1 Discussions
+
+Phil + Darrell: 
+A feature is a service function, and a service function is considered complete when its test function runs without error.
+
+Michael + Austin: 
+A feature needs to be fully functionally and at least have most of the JDBC logic.
+
+Hannah Hospital + Josh Evans:
+Our definition of done is whenever a feature is completely functional, and the DAOs are able to return a booelan to the service layer, allowing us to know that the CRUD operations were successfully completed. 
+Also, feature is a service function and it must run under test without any error.
+
+
+
+
