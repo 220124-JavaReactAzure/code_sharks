@@ -206,6 +206,11 @@ Hannah Hospital + Josh Evans:
 Our definition of done is whenever a feature is completely functional, and the DAOs are able to return a booelan to the service layer, allowing us to know that the CRUD operations were successfully completed. 
 Also, feature is a service function and it must run under test without any error.
 
+# Standup Notes 2/14/2022
+## P1 Status
 
+Josh + Hannah: we are creating our tables for our P1 and creating the foreign key/primary key relationships. Almost have a fully completed ERD
 
+Michael + Austin:ER diagram done. Working on code skeleton
 
+Phil + Darrell: Created Microsoft SQL instance. Created database structure for P1. Added ERD to README.md. Created skeletons for most of the necessary source files.
