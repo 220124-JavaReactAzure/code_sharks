@@ -214,3 +214,13 @@ Josh + Hannah: we are creating our tables for our P1 and creating the foreign ke
 Michael + Austin:ER diagram done. Working on code skeleton
 
 Phil + Darrell: Created Microsoft SQL instance. Created database structure for P1. Added ERD to README.md. Created skeletons for most of the necessary source files.
+
+# Standup Notes 2/16/2022
+## P1 Status
+
+Josh + Hannah: completed ERD
+
+Austin and Michael:
+Continuing to make class skeletons, need  to set up trello board and finish table layout
+
+Phil + Darrell: Added DAO objects to git repo. Tweaked DB assign to maintain 3nf. Created Trello board.
