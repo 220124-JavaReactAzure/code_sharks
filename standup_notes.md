@@ -215,7 +215,7 @@ Michael + Austin:ER diagram done. Working on code skeleton
 
 Phil + Darrell: Created Microsoft SQL instance. Created database structure for P1. Added ERD to README.md. Created skeletons for most of the necessary source files.
 
-# Standup Notes 2/16/2022
+# Standup Notes 2/15/2022
 ## P1 Status
 
 Josh + Hannah: completed ERD
@@ -224,3 +224,12 @@ Austin and Michael:
 Continuing to make class skeletons, need  to set up trello board and finish table layout
 
 Phil + Darrell: Added DAO objects to git repo. Tweaked DB assign to maintain 3nf. Created Trello board.
+
+# Standup Notes 2/16/2022
+## P1 Status
+
+Hannah Hospital & Josh Evans: completed all models, confirmed ERD, created empty classes for DAOs, Services, and Servlets.
+
+Philip & Darrell: Working on UserService, UserServlet, JUnit tests for User POST GET PUT DELETE and meal order setup
+
+Austin & Michael: Empty classes setup and all configuration done and tested connection
