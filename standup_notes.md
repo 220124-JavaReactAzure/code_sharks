@@ -233,3 +233,12 @@ Hannah Hospital & Josh Evans: completed all models, confirmed ERD, created empty
 Philip & Darrell: Working on UserService, UserServlet, JUnit tests for User POST GET PUT DELETE and meal order setup
 
 Austin & Michael: Empty classes setup and all configuration done and tested connection
+
+# Standup Notes 2/17/2022
+## P1 Status
+
+Phillip & Darrell: REST endpoints for User complete. JUnit tests for UserService complete. Still working on getting log4j to work.
+
+Josh Evans & Hannah Hospital: working on hibernate annotations for the tables in each of the models, completed DAOs
+
+Austin and Michael: Finish setting up empty classes and begin implementing
