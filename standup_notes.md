@@ -242,3 +242,16 @@ Phillip & Darrell: REST endpoints for User complete. JUnit tests for UserService
 Josh Evans & Hannah Hospital: working on hibernate annotations for the tables in each of the models, completed DAOs
 
 Austin and Michael: Finish setting up empty classes and begin implementing
+
+# Standup Notes 2/18/2022
+## P1 Status
+
+Phillip & Darrell:Finished REST calls and JUnit testss for all User objects. Now working on Wedding objects, then Asset objects
+
+
+Josh Evans & Hannah Hospital: constructed a new ERD model and modified models to match it
+
+
+Austin and Michael: Working on the servlets and daos
+
+
