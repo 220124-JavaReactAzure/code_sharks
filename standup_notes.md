@@ -255,3 +255,17 @@ Josh Evans & Hannah Hospital: constructed a new ERD model and modified models to
 Austin and Michael: Working on the servlets and daos
 
 
+# Standup Notes 2/21/2022
+## P1 Status
+
+Phillip & Darrell: REST endpoints in place for everything except Meal selection. Working on a front end html interface.
+
+
+
+Josh Evans & Hannah Hospital: created html pages for login and registration servlets
+
+
+
+Austin and Michael: Finishing servlets then adding testing and logging.
+
+
