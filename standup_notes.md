@@ -268,4 +268,23 @@ Josh Evans & Hannah Hospital: created html pages for login and registration serv
 
 Austin and Michael: Finishing servlets then adding testing and logging.
 
+# Standup Notes 2/22/2022
+## P1 Status
+
+Note taker: Philip
+
+Philip & Darrell: Working on html front end, Menus are completed for servlets
+Philip will study daily instead of only cramming on Sundays.
+
+Josh Evans & Hannah Hospital
+Created html files for login and registration. Updating the control flow of servlets to html files.
+
+Things to improve on (Hannah): Spend 30 min a day reading notes and working on flashcards
+
+Michael: Added functionality for services. Look at flashcards more
+
+Austin: Working on unit testing and finishing business logic. 
+Utilize breaks and extra time better to study flashcards and other resources
+
+
 
