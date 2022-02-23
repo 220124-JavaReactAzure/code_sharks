@@ -286,5 +286,11 @@ Michael: Added functionality for services. Look at flashcards more
 Austin: Working on unit testing and finishing business logic. 
 Utilize breaks and extra time better to study flashcards and other resources
 
+# Standup Notes 2/23/2022
+## P1 Status
 
+Josh Evans & Hannah Hospital: working on attendee dashboard and jsp, starting testing and logging.
 
+Philip & Darrell: Still working on an HTML/JavaScript frontend.
+
+Austin & Michael: Still finishing logging, testing and logic. Then attempt at caching.
