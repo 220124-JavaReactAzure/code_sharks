@@ -294,3 +294,14 @@ Josh Evans & Hannah Hospital: working on attendee dashboard and jsp, starting te
 Philip & Darrell: Still working on an HTML/JavaScript frontend.
 
 Austin & Michael: Still finishing logging, testing and logic. Then attempt at caching.
+
+
+
+# Standup Notes 2/24/2022
+## P1 Status
+
+Josh Evans & Hannah Hospital: making some adjustments to the attendee dash, testing and logging.
+
+Philip & Darrell: Found a logging fix, applying it to all services. Have a partially complete user interface using React, will add as much functionality to that as possible.
+
+Michael and Austin: Working on business logic and logging, will move on to testing next
