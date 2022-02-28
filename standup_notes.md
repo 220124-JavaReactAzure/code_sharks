@@ -305,3 +305,37 @@ Josh Evans & Hannah Hospital: making some adjustments to the attendee dash, test
 Philip & Darrell: Found a logging fix, applying it to all services. Have a partially complete user interface using React, will add as much functionality to that as possible.
 
 Michael and Austin: Working on business logic and logging, will move on to testing next
+
+# Standup Notes 2/28/2022
+
+## P2 Proposal
+
+Trial by Combat:
+
+A character generation and dueling system for d20 enthuasiasts.
+
+As a player I can register an account
+
+As a player I can login with my account
+
+As a logged in player I can:
+- Create weapons
+- Create armor
+- Create potions
+- Randomly generate a character
+- Define a loadout
+- Purchase items or a loadout for a character
+- Allow a character to buy random items
+- Create an entry on the challenge board with a selected character
+- Browse the challenge board
+- Send a character to an existing challenge, winner take all!
+
+Models:
+    Player
+    Character
+    Item
+        Weapon
+        Armor
+        Potion
+            Healing Potion
+    Loadout (contains items)
