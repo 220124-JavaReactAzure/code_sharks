@@ -339,3 +339,28 @@ Models:
         Potion
             Healing Potion
     Loadout (contains items)
+
+# Standup Notes 3/2/022
+
+## P2 Status
+
+Make sure that operations on one object do not make changes to related objects
+example: Avatar REST calls should never make changes to Player objects
+example: Weapon/Armor/HealingPotion/Loadout REST calls should not make changes to Avatar objects except as part of a ChallengeAction operation
+etc
+/object GET
+get all objects of this type
+/object/?id=1 GET
+get object by id
+/object/?id=1 DELETE
+delete object by id
+/object PUT POST
+id is included in JSON
+/object/relationship/?id=1
+get objects with relationship object by id, example /avatar/player/1 get all avatars with player id of 1
+
+Gurman: Working on Armor
+Tracy: Working on HealingPotion
+Michael: Working on Weapon
+Josh: Working on Loadout and LoadoutItem
+Phil: Working on Player and Avatar
