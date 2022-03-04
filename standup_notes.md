@@ -348,7 +348,7 @@ Make sure that operations on one object do not make changes to related objects
 example: Avatar REST calls should never make changes to Player objects
 example: Weapon/Armor/HealingPotion/Loadout REST calls should not make changes to Avatar objects except as part of a ChallengeAction operation
 etc
-- [ ] /object GET
+- [ ] /object/all GET
 -get all objects of this type
 - [ ] /object/?id=1 GET
 -get object by id
