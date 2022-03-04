@@ -382,3 +382,18 @@ Phil: Finished Player, Avatar, AvatarItem, working on ChallengeAction
 Josh: Finished Loadout, working on testing endpoints for Loadout and creating LoadoutItem DAO/Service/Servlet/Test
 
 Tracy: finishing up healing potion and testing rest endpoints
+
+# Standup Notes 3/4/2022
+
+## P2 Status
+
+Gurman: Implementing Armor DAO and Service layers
+
+Michael: Working on adding postman requests for challenge and weapon
+
+Phil: Completed ChallengeItem. Now working on Auth system.
+
+Josh: Completed Loadout Item, working on UI design document (React/Material UI)
+
+Tracy: Completed the healing potion api. now working on CI/CD Pipeline.
+
