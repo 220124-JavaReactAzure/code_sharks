@@ -369,7 +369,7 @@ Josh: Working on Loadout and LoadoutItem
 
 Phil: Working on Player and Avatar
 
-# Standup Notes 3/2/2022
+# Standup Notes 3/3/2022
 
 ## P2 Status
 
