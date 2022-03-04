@@ -360,16 +360,25 @@ id is included in JSON
 get objects with relationship object by id, example /avatar/player/1 get all avatars with player id of 1
 
 Gurman: Working on Armor
+
 Tracy: Working on HealingPotion
+
 Michael: Working on Weapon
+
 Josh: Working on Loadout and LoadoutItem
+
 Phil: Working on Player and Avatar
 
 # Standup Notes 3/2/2022
-# p2 Update
+
+## P2 Status
 
 Gurman: Finished Service and DAO layers for armor, in the process of implementing test suite and servlet layers
+
 Michael: Finished Weapon DAO/service/servlet and set up testing
+
 Phil: Finished Player, Avatar, AvatarItem, working on ChallengeAction
+
 Josh: Finished Loadout, working on testing endpoints for Loadout and creating LoadoutItem DAO/Service/Servlet/Test
+
 Tracy: finishing up healing potion and testing rest endpoints
