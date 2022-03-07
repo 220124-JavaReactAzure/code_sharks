@@ -397,3 +397,16 @@ Josh: Completed Loadout Item, working on UI design document (React/Material UI)
 
 Tracy: Completed the healing potion api. now working on CI/CD Pipeline.
 
+# Standup Notes 3/7/2022
+
+## P2 Status
+
+Gurman: Implemented and testing the logging aspect
+
+Michael: working on Test ErrorExceptionAspect
+
+Phil: finished auth system, added some validation to Player, working on React UI
+
+Josh: Connecting login page to auth endpoint
+
+Tracy: Still working on CI/CD pipeline
