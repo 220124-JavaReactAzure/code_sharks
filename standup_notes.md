@@ -410,3 +410,19 @@ Phil: finished auth system, added some validation to Player, working on React UI
 Josh: Connecting login page to auth endpoint
 
 Tracy: Still working on CI/CD pipeline
+
+# Standup Notes 3/8/2022
+
+## P2 Status
+
+Gurman: Ran into some issues with logging, worked on debugging but also looking into alternatives
+
+Michael: Finished errorExceptionAspect, starting to work on UI
+
+Phil: created registration component for react ui, working on user dashboard
+
+Josh: Getting AvatarList Component to display on login
+
+Tracy: Still working on ci/cd pipeline.
+
+
