@@ -425,4 +425,16 @@ Josh: Getting AvatarList Component to display on login
 
 Tracy: Still working on ci/cd pipeline.
 
+# Standup Notes 3/8/2022
 
+## P2 Status
+
+Gurman: -Finished armor pricing changes and tested the endpoint/merged -Finished armor form ui layer, currently testing and will merge when it appears functional 
+
+Michael: defining a loadout 
+
+Phil: -Finished creating ChallengeBoard component to list all challenges -Working on UserDashboard and functionality to create a challenge 
+
+Josh: Getting Player Avatar List to display on login
+
+Tracy: Still working on ci/cd pipeline.
