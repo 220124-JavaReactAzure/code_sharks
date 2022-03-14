@@ -438,3 +438,20 @@ Phil: -Finished creating ChallengeBoard component to list all challenges -Workin
 Josh: Getting Player Avatar List to display on login
 
 Tracy: Still working on ci/cd pipeline.
+
+# Standup Notes 3/8/2022
+
+## P2 Retrospective/P3 Preferences
+
+Overall communication was excellent. Everyone had a slice of the backend and got to work on every layer of it. Live coding pieces of the front end was very helpful for the team. Trello board was really helpful, we always knew who was working on what.
+
+In retrospect, it's very important to let the team know when you are stuck and have made no progress, and we would've benefited greatly by visually designing the UI before we started working on it.
+
+Gurman - Preferences: Front-end because it's a weak point for me. Testing because I think its one of my strengths, making sure we have high coverage and implementing verbose tests for endpoints etc. Nothing that I'm against getting placed into if those 2 preferences don't pan out.
+
+Josh - Slightly prefer front-end or research.
+Overall can go anywhere needed.
+
+Michael - Open to do anything, interested in learning more about  front end
+
+Phil - prefer security or bonus features
