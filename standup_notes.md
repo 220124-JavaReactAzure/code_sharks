@@ -425,7 +425,7 @@ Josh: Getting AvatarList Component to display on login
 
 Tracy: Still working on ci/cd pipeline.
 
-# Standup Notes 3/8/2022
+# Standup Notes 3/9/2022
 
 ## P2 Status
 
