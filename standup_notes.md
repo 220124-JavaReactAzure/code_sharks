@@ -439,7 +439,7 @@ Josh: Getting Player Avatar List to display on login
 
 Tracy: Still working on ci/cd pipeline.
 
-# Standup Notes 3/8/2022
+# Standup Notes 3/14/2022
 
 ## P2 Retrospective/P3 Preferences
 
